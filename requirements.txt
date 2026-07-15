@@ -1,0 +1,5 @@
+dnspython
+cryptography
+colorama
+opencv-python
+lxml
